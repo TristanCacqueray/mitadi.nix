@@ -12,9 +12,7 @@
       "github:srid/emanote/a91b917fe706a6be9f69eae33cdcb2ba3c95a1b2";
     emanote.flake = false;
 
-    # Pull https://github.com/srid/emanote/pull/554 to support web component and <kbd> element
-    heist-extra.url =
-      "github:srid/heist-extra/aa29e8550f98923769f19df51b73f90444a3619c";
+    heist-extra.url = "github:srid/heist-extra";
     heist-extra.flake = false;
 
     unionmount.url = "github:srid/unionmount";

@@ -69,17 +69,16 @@
     "heist-extra": {
       "flake": false,
       "locked": {
-        "lastModified": 1735840790,
-        "narHash": "sha256-tGRboyaS5J95mBM0R3jwAM+iyEN9zK3iILd1mloFzQI=",
+        "lastModified": 1737313814,
+        "narHash": "sha256-WCXhs/xhCR4CKBEadQjqqgUb47bLzDY7P7oL5cSgDHc=",
         "owner": "srid",
         "repo": "heist-extra",
-        "rev": "aa29e8550f98923769f19df51b73f90444a3619c",
+        "rev": "6f73e000a34b7c054b516b9504b5a7ed08ce6a2d",
         "type": "github"
       },
       "original": {
         "owner": "srid",
         "repo": "heist-extra",
-        "rev": "aa29e8550f98923769f19df51b73f90444a3619c",
         "type": "github"
       }
     },
